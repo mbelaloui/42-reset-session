@@ -1,6 +1,6 @@
 # 42-reset-session
 
-to reset session :
+<h4>to reset session :</h1>
   <p>Reset : `touch ~/.reset`</p>
   <p>Reset library : `touch ~/.reset_library`</p>
   <p>restart session<p></br>
@@ -13,5 +13,5 @@ to reset session :
   <p>brew install valgrind</p>
   <p>alias valgrind="~/homebrew/Cellar/valgrind/3.13.0/bin/valgrind"</p>
  
-<h1>to install oh_my zsh<\h1>
+<h1>to install oh_my zsh</h1>
   <p>sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"</p>
