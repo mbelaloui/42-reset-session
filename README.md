@@ -1,6 +1,6 @@
 # 42-reset-session
 
-<h4>to reset session :</h1>
+<h1>to reset session :</h1>
   <p>Reset : `touch ~/.reset`</p>
   <p>Reset library : `touch ~/.reset_library`</p>
   <p>restart session<p></br>
