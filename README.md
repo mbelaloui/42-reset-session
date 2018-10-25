@@ -9,13 +9,13 @@
   <p>mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew</p>
   <p>alias brew="~/homebrew/bin/brew"</p>
   <p>restart terminal<p></br>
-  <p>if it does not work, it might be necessary to add this line of code dasn the .zshrc</p>
-  <p>alias brew="~/brew/bin/brew"</p></br>
+  <p>if it does not work, it might be necessary to add this line in the .zshrc</p>
+  <p>alias brew="~/brew/bin/brew"</p>
   <p>restart terminal<p></br>
   
 <h1>to install valgrind</h1>
   <p>brew install valgrind</p>
   <p>restart terminal<p></br>
-  <p>if it does not work, it might be necessary to add this line of code dasn the .zshrc</p></br>
-  <p>alias valgrind="~//brew/Cellar/valgrind/....../bin/valgrind" 'fill the ...... with the version'</p></br>
+  <p>if it does not work, it might be necessary to add this line in the .zshrc</p>
+  <p>alias valgrind="~//brew/Cellar/valgrind/....../bin/valgrind" 'fill the ...... with the version'</p>
   <p>restart terminal<p></br>
