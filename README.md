@@ -14,7 +14,3 @@
   <p>brew install valgrind</p>
   <p>alias valgrind="~/homebrew/Cellar/valgrind/3.13.0/bin/valgrind"</p>
    <p>restart terminal<p></br>
- 
-<h1>to install oh_my zsh</h1>
-  <p>sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"</p>
-   <p>restart terminal<p></br>
