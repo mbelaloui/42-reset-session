@@ -17,5 +17,5 @@
   <p>brew install valgrind</p>
   <p>restart terminal<p></br>
   <p>if it does not work, it might be necessary to add this line in the .zshrc</p>
-  <p>alias valgrind="~/brew/Cellar/valgrind/....../bin/valgrind" `fill the ...... with the version`</p>
+  <p>alias valgrind="~/brew/Cellar/valgrind/....../bin/valgrind". Fill the ...... with the version</p>
   <p>restart terminal<p></br>
