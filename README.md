@@ -6,13 +6,9 @@
   <p>restart session<p>
 
 <h1>to get good version of brew:</h1>
-  <p>mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew</p>
+  <p>curl -fsSL https://rawgit.com/kube/42homebrew/master/install.sh | zsh</p>
   <p>restart terminal<p></br>
-
-  <p>if it does not work, it might be necessary to add this line to the .zshrc</p>
-  <p>alias brew='~/brew/bin/brew'</p>
-  <p>restart terminal<p></br>
-  
+ 
 <h1>to install valgrind</h1>
   <p>brew install valgrind</p>
   <p>restart terminal<p></br>
